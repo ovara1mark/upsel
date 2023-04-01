@@ -1,0 +1,200 @@
+.navbanner-navbanner {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 16px 64px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-colors_white-white9);
+}
+.navbanner-logo {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 330px;
+}
+.navbanner-logo1 {
+  width: 160px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: var(--dl-color-colors_black-black4);
+}
+.navbanner-links {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.navbanner-button {
+  display: flex;
+  padding: 8px 24px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+}
+.navbanner-text {
+  color: var(--dl-color-colors_black-black13);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.navbanner-button1 {
+  display: flex;
+  padding: 8px 24px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+}
+.navbanner-text02 {
+  color: var(--dl-color-colors_black-black9);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.navbanner-button2 {
+  display: flex;
+  padding: 8px 24px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+}
+.navbanner-text04 {
+  color: var(--dl-color-colors_black-black9);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.navbanner-button3 {
+  display: flex;
+  padding: 8px 24px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+}
+.navbanner-text06 {
+  color: var(--dl-color-colors_black-black9);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.navbanner-button4 {
+  display: flex;
+  padding: 8px 24px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 12px;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+}
+.navbanner-text08 {
+  color: var(--dl-color-colors_black-black9);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.navbanner-button5 {
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.0430000014603138);
+  align-items: center;
+  border-color: rgba(55, 39, 114, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-colors_primary-primary6);
+}
+.navbanner-text10 {
+  color: var(--dl-color-colors_white-white1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

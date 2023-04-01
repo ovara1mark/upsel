@@ -1,0 +1,90 @@
+.whatmakesusstandout-container {
+  min-height: 100vh;
+}
+.whatmakesusstandout-whatmakesusstandout {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 32px 160px 40px 160px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-colors_primary-primary10);
+}
+.whatmakesusstandout-content {
+  width: 964px;
+  height: 500px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.whatmakesusstandout-text {
+  color: var(--dl-color-colors_white-white1);
+  width: 471px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.whatmakesusstandout-text01 {
+  font-weight: 300;
+}
+.whatmakesusstandout-text06 {
+  top: 127px;
+  left: 502px;
+  color: var(--dl-color-colors_white-white1);
+  width: 462px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.whatmakesusstandout-text07 {
+  font-weight: 300;
+}
+.whatmakesusstandout-text12 {
+  top: 350px;
+  color: var(--dl-color-colors_white-white1);
+  width: 571px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.whatmakesusstandout-text13 {
+  font-weight: 300;
+}
+
+.text001 {
+  font-size: 16px;
+}
