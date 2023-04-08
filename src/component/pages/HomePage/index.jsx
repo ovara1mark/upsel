@@ -22,11 +22,11 @@ export const HomePage = () => {
         <HeroSectionThree /> */}
         <Story />
         <AboutUs />
-        <Service />
+        {/* <Service />
         <Process />
         <FAQSection />
         <ContactUs />
-        <Footer />
+        <Footer /> */}
       </PageTemplate>
     </>
   );

@@ -88,3 +88,117 @@
 .text001 {
   font-size: 16px;
 }
+
+@media screen and (max-width: 500px) {
+  .whatmakesusstandout-container {
+    height: 60rem;
+    background-color: var(--dl-color-colors_primary-primary10);
+  }
+  .whatmakesusstandout-whatmakesusstandout {
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 80px 24px 40px 24px;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+    background-color: var(--dl-color-colors_primary-primary10);
+  }
+  .whatmakesusstandout-content {
+    width: 312px;
+    display: flex;
+    padding: 0 1px;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .whatmakesusstandout-frame68 {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 64px;
+  }
+  .whatmakesusstandout-text {
+    color: var(--dl-color-colors_white-white1);
+    width: 268px;
+    height: auto;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .whatmakesusstandout-text01 {
+    font-weight: 300;
+  }
+  .whatmakesusstandout-frame66 {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 64px;
+    justify-content: flex-end;
+  }
+  .whatmakesusstandout-text06 {
+    top: 260px;
+    left: 10px;
+    color: var(--dl-color-colors_white-white1);
+    width: 268px;
+    height: auto;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .whatmakesusstandout-text07 {
+    font-weight: 300;
+  }
+  .whatmakesusstandout-frame67 {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .whatmakesusstandout-text12 {
+    color: var(--dl-color-colors_white-white1);
+    width: 268px;
+    height: auto;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Light;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 13rem;
+    text-decoration: none;
+  }
+  .whatmakesusstandout-text13 {
+    font-weight: 300;
+  }
+}
