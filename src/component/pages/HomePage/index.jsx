@@ -17,7 +17,7 @@ export const HomePage = () => {
   return (
     <>
       <PageTemplate>
-        <HeroSection />
+        {/* <HeroSection /> */}
         {/* <HeroSectionTwo />
         <HeroSectionThree /> */}
         <Story />

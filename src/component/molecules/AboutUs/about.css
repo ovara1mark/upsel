@@ -510,6 +510,7 @@
     padding-top: 2rem;
     align-self: auto;
     text-align: left;
+    width: 320px;
   }
   .upsel-about {
     color: var(--dl-color-colors_primary-primary6);
