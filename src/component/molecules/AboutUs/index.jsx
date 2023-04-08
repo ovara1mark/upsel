@@ -273,7 +273,35 @@ export const AboutUs = (props) => {
             </div>
           </div>
         </div>
-        <div className="upsel-about-core"></div>
+        <div className="upsel-about-core">
+          <div className="upsel-about-core-2">
+            <p className="upsel-core-1  ParagraphMeduim-16px">
+              At our core, we are dedicated to providing extraordinary results
+              and exceptional customer service. We believe we can develop
+              solutions that effectively changes things if we collaborate
+              closely with our clients and comprehend their particular demands.
+            </p>
+            <p className="upsel-core-2  ParagraphMeduim-16px">
+              Thank you for considering our agency for your online presence
+              needs. We look forward to working with you and helping you take
+              your business to the next level.
+            </p>
+            <div className="upsel-about-button">
+              <button className="about-button ">
+                <div className="about-iconwrapper">
+                  <img
+                    alt="UnionI1438"
+                    src="/playground_assets/unioni1438-10yw.svg"
+                    className="about-union"
+                  />
+                </div>
+                <span className="about-text02">
+                  <span>Grow Your Business Now</span>
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );
