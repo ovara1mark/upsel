@@ -837,7 +837,7 @@
   }
 
   .product-service-container {
-    width: 312px;
+    width: 100%;
     padding: 16px 8px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1599999964237213);
 
