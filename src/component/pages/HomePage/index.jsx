@@ -17,13 +17,13 @@ export const HomePage = () => {
   return (
     <>
       <PageTemplate>
-        {/* <HeroSection /> */}
+        <HeroSection />
         {/* <HeroSectionTwo />
         <HeroSectionThree /> */}
         <Story />
         <AboutUs />
-        {/* <Service />
-        <Process />
+        <Service />
+        {/* <Process />
         <FAQSection />
         <ContactUs />
         <Footer /> */}
