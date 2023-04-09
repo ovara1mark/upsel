@@ -610,3 +610,359 @@
   margin-bottom: 0;
   text-decoration: none;
 }
+
+.process-container-2 {
+  display: none;
+}
+@media screen and (max-width: 500px) {
+  .ourprocess-container {
+    display: none;
+  }
+  .process-container-2 {
+    display: block;
+  }
+
+  .ourprocessmobile-ourprocessmobile {
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 80px 24px 40px 24px;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .ourprocessmobile-process {
+    display: flex;
+    position: relative;
+    align-items: flex-end;
+    border-color: transparent;
+    margin-bottom: 80px;
+    flex-direction: column;
+  }
+  .ourprocessmobile-heading {
+    width: 311px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 32px;
+  }
+  .ourprocessmobile-text {
+    color: var(--dl-color-colors_primary-primary10);
+    width: 315px;
+    height: auto;
+    font-size: 28px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    line-height: 36px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .ourprocessmobile-image {
+    width: 312px;
+    height: 200px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-size: cover;
+    background-image: url("/playground_assets/618bdea6-490e-4aa6-ab18-bc9d055719ab-97l-400w.undefined");
+  }
+  .ourprocessmobile-whychooseus {
+    width: 312px;
+    height: 878px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .ourprocessmobile-heading1 {
+    top: 0px;
+    left: 0px;
+    width: 192px;
+    display: flex;
+    padding: 4px 0;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .ourprocessmobile-text02 {
+    color: var(--dl-color-colors_primary-primary6);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 700;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .ourprocessmobile-frame64 {
+    top: 78px;
+    left: 12px;
+    width: 300px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .ourprocessmobile-frame1 {
+    width: 300px;
+    display: flex;
+    padding: 8px 0;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 24px;
+    flex-direction: column;
+  }
+  .ourprocessmobile-frame43 {
+    display: flex;
+    padding: 0 8px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 8px;
+  }
+  .ourprocessmobile-image1 {
+    width: 72px;
+    height: 72px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 8px;
+    border-radius: 12px;
+    justify-content: center;
+    background-color: var(--dl-color-colors_black-black3);
+  }
+  .ourprocessmobile-project {
+    width: 32px;
+    height: 32px;
+    position: relative;
+  }
+  .ourprocessmobile-text04 {
+    color: var(--dl-color-colors_black-black9);
+    height: auto;
+    flex-grow: 1;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 500;
+    line-height: 28px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .ourprocessmobile-frame63 {
+    display: flex;
+    padding: 8px;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .ourprocessmobile-text06 {
+    color: var(--dl-color-colors_black-black9);
+    height: auto;
+    flex-grow: 1;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .ourprocessmobile-frame2 {
+    width: 300px;
+    display: flex;
+    padding: 8px 0;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 24px;
+    flex-direction: column;
+  }
+  .ourprocessmobile-frame431 {
+    display: flex;
+    padding: 0 8px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 8px;
+  }
+  .ourprocessmobile-image2 {
+    width: 72px;
+    height: 72px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 8px;
+    border-radius: 12px;
+    justify-content: center;
+    background-color: var(--dl-color-colors_black-black3);
+  }
+  .ourprocessmobile-molecular-connection {
+    width: 32px;
+    height: 32px;
+    position: relative;
+  }
+  .ourprocessmobile-text08 {
+    color: var(--dl-color-colors_black-black9);
+    height: auto;
+    flex-grow: 1;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 500;
+    line-height: 28px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .ourprocessmobile-frame631 {
+    display: flex;
+    padding: 8px;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .ourprocessmobile-text10 {
+    color: var(--dl-color-colors_black-black9);
+    height: auto;
+    flex-grow: 1;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .ourprocessmobile-frame3 {
+    width: 300px;
+    display: flex;
+    padding: 8px 0;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .ourprocessmobile-frame432 {
+    display: flex;
+    padding: 0 8px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 8px;
+  }
+  .ourprocessmobile-image3 {
+    width: 72px;
+    height: 72px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 8px;
+    border-radius: 12px;
+    justify-content: center;
+    background-color: var(--dl-color-colors_black-black3);
+  }
+  .ourprocessmobile-trophy {
+    width: 32px;
+    height: 32px;
+    position: relative;
+  }
+  .ourprocessmobile-text12 {
+    color: var(--dl-color-colors_black-black9);
+    height: auto;
+    flex-grow: 1;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 500;
+    line-height: 28px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .ourprocessmobile-frame632 {
+    display: flex;
+    padding: 8px;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .ourprocessmobile-text14 {
+    color: var(--dl-color-colors_black-black9);
+    height: auto;
+    flex-grow: 1;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+}
