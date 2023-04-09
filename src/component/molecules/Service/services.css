@@ -825,6 +825,10 @@
     margin-bottom: 32px;
     text-decoration: none;
   }
+
+  .span-service-1 {
+    margin-bottom: 2rem;
+  }
   .services-container-2 {
     display: block;
     padding-left: 2rem;
@@ -853,7 +857,8 @@
   .services-group-product {
     position: relative;
     margin-top: 0.5rem;
-    margin-right: 3rem;
+    margin-right: 2.7rem;
+    margin-left: 1rem;
   }
 
   .product-vector1 {
@@ -869,5 +874,32 @@
     width: 12px;
     height: 12px;
     position: absolute;
+  }
+  .services-text023 {
+    color: var(--dl-color-colors_black-black9);
+    font-size: 20px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Space Grotesk;
+    font-weight: 500;
+    line-height: 28px;
+    text-decoration: none;
+  }
+
+  .services-group-product-2 {
+    margin-right: 0.9rem;
+  }
+
+  .services-dash {
+    margin-left: 1rem;
+    margin-top: 1rem;
+  }
+  .market {
+    margin-top: 0.3rem;
+  }
+
+  .sfd {
+    margin-top: 0.2rem;
   }
 }

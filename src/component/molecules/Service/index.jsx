@@ -209,7 +209,10 @@ export const Service = (props) => {
         </div>
       </div>
       <div className="services-container-2">
-        <span className="services-span">What We Do</span>
+        <div className="span-service-1">
+          <span className="services-span">What We Do</span>
+        </div>
+
         <div className="product-service-container">
           <div className="product-service-2-container">
             <div className="services-group-product">
@@ -224,7 +227,7 @@ export const Service = (props) => {
                 className="product-vector2"
               />
             </div>
-            <div className="services-text02">
+            <div className="services-text023">
               <span>Product Design</span>
             </div>
           </div>
@@ -244,7 +247,7 @@ export const Service = (props) => {
                 className="services-vector4"
               />
             </div>
-            <div className="services-text02">
+            <div className="services-text023 sfd">
               <span>Software Development</span>
             </div>
           </div>
@@ -252,14 +255,14 @@ export const Service = (props) => {
 
         <div className="product-service-container software-service-container">
           <div className="product-service-2-container">
-            <div className="services-group-product">
+            <div className="services-group-product-2">
               <img
                 src="/playground_assets/dashiconsarti1365-084x.svg"
                 alt="dashiconsartI1365"
-                className="services-dashiconsart"
+                className="services-dash"
               />
             </div>
-            <div className="services-text02">
+            <div className="services-text023">
               <span>Brand Design and Graphics</span>
             </div>
           </div>
@@ -279,7 +282,7 @@ export const Service = (props) => {
                 className="services-vector6"
               />
             </div>
-            <div className="services-text02">
+            <div className="services-text023 market">
               <span>Marketing</span>
             </div>
           </div>
