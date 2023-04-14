@@ -843,7 +843,7 @@
   .contactform-contactform {
     width: 100%;
     display: flex;
-    padding: 40px 82px 20px 82px;
+    padding: 40px 32px 20px 32px;
     /* overflow: hidden; */
     border-color: transparent;
     justify-content: center;
