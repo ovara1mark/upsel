@@ -434,7 +434,7 @@
     border-color: transparent;
     flex-direction: column;
     justify-content: center;
-    background-color: var(--dl-color-colors_tertiary2-tertiary22);
+    background-color: #fff9f3;
   }
   .f-qmobile-content {
     width: 313px;
