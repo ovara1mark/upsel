@@ -26,7 +26,7 @@ export const HomePage = () => {
         <Process />
         <FAQSection />
         <ContactUs />
-        {/* <Footer /> */}
+        <Footer />
       </PageTemplate>
     </>
   );
