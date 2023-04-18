@@ -903,3 +903,139 @@
     margin-top: 0.2rem;
   }
 }
+
+@media screen and (max-width: 900px) {
+  .about-section1{
+    width: 100vw;
+  }
+  .about-section2{
+    top: 1500px;
+  }
+  .whatmakesusstandout-text06,.about-summary{
+    left: 0;
+  }
+  .about-summary{
+    top: 160px;
+  }
+  .about-text25{
+    width: 385px;
+  }
+  .about-frame535{
+    left:314px;
+    top: 280px;
+  }
+  .about-frame3{
+    left: 113px;
+  }
+  .about-frame1{
+    left: 267px;
+  }
+  .about-frame2{
+    left: -29px;
+  }
+  .about-centre {
+    top: 916px;
+    left: 0;
+  }
+  .about-content{
+    flex-direction: column;
+    overflow: visible;
+  }
+  .about-image{
+    position: initial;
+    transform: translateX(50%);
+  }
+  .about-right1{
+    position: initial;
+    margin-top: 40px;
+  }
+  .about-right{
+    left: 0;
+    top: 165px;
+  }
+  .about-ourstory{
+    height: 750px;
+  }
+  .services-services{
+    /* transform: translateY(30%); */
+    width: 100vw;
+    overflow: visible;
+  }
+  .services-section{
+    align-items: start;
+    width: 90vw;
+  }
+  .services-design {
+    flex-direction: column;
+    width: 100vw;
+  }
+  /* .ourprocess-container {
+    transform: translateY(30%);   
+  } */
+  /* .fa-section-container{
+    transform: translateY(50%);   
+  } */
+  .ourprocess-frame65{
+    flex-direction: column;
+    position: inherit !important;
+    top: 0 !important;
+    left: 0 !important;
+
+  }
+  .ourprocess-frame3,.ourprocess-frame2,.ourprocess-frame1{
+    position: inherit !important;
+    margin-bottom: 15px !important;
+    left: 0 !important;
+    top: 0 !important;
+  }
+  .DisplaySmall-52 span{
+    font-size: 45px;
+    width: 80vw;
+    display: block;
+  }
+  .fa-section-fa-section{
+    transform: translateY(20%);
+  }
+  .contactus-section {
+    transform: translateY(100%);
+  }
+   .contactus-container{
+    transform: translateY(11%);
+  }
+    /*
+  .contactus-content{
+    flex-direction: column-reverse !important;
+  }*/
+  .contactus-quotes{
+    left: 0 !important;
+    top: -490px !important;
+  } 
+  .contactus-contactus{
+    height: 1294px !important;
+  }
+  .fa-section-content{
+    left:-28px
+  }
+  .about-upsel{
+    height: 2580px;
+  }
+  .about-frame537{
+    top: 769px;
+    left: 101px;
+  }
+  .about-text span span{
+    margin-bottom: 10px;
+  }
+  .ourprocess-group24, nav{
+    display:none !important;
+  }
+  .fa-section-content{
+    left: 40px !important;
+  }
+  .fa-section-faqcollapse,.fa-section-content{
+    width: 654px !important;
+  }
+  .footer-navlinks{
+    display: initial !important;
+  }
+}
